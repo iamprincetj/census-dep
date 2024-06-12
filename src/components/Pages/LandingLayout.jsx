@@ -2,7 +2,6 @@ import React, { useEffect, useState } from 'react';
 import { Link, Outlet } from 'react-router-dom';
 import Card from '../Card'; // Ensure the Card component path is correct
 import '../../App.css'; // Adjust the path to App.css based on its location
-import '../../assets/';
 
 const LandingLayout = () => {
     const [animateCards, setAnimateCards] = useState(false);
