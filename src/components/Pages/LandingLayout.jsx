@@ -44,7 +44,7 @@ const LandingLayout = () => {
                 >
                     <Link to='/attendance' className='card-link'>
                         <Card
-                            imgSrc='../../assets/attendance.jpg'
+                            imgSrc='./assets/attendance.jpg'
                             altText='Attendance Management'
                             title='Attendance Management'
                             content='Efficiently track and manage staff attendance with our comprehensive system. Ensure accuracy and streamline your processes to improve productivity and accountability within your department.'
@@ -52,7 +52,7 @@ const LandingLayout = () => {
                     </Link>
                     <Link to='/login' className='card-link'>
                         <Card
-                            imgSrc='../../assets/requestcard.jpg'
+                            imgSrc='./assets/requestcard.jpg'
                             altText='Request Management'
                             title='Request Management'
                             content='Streamline and manage all visitor requests efficiently. This system ensures that every request is tracked, processed, and resolved promptly for operational effectiveness.'
@@ -60,7 +60,7 @@ const LandingLayout = () => {
                     </Link>
                     <Link to='/login' className='card-link'>
                         <Card
-                            imgSrc='../../assets/mail.jpg'
+                            imgSrc='./assets/mail.jpg'
                             altText='Mails Management'
                             title='Mails Management'
                             content='Efficiently handle and track all incoming and outgoing mail within the department. This system ensures all correspondence is properly managed, and delivered.'
@@ -109,7 +109,7 @@ const LandingLayout = () => {
                                 Projection...
                             </h3>
                             <img
-                                src='../../assets/Enter.png'
+                                src='./assets/Enter.png'
                                 alt='Enter'
                                 style={{
                                     width: '50px',
