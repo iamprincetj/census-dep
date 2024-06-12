@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/census-dep/static/css/main.79df7f62.css",
+    "main.js": "/census-dep/static/js/main.babb1752.js",
+    "index.html": "/census-dep/index.html",
+    "main.79df7f62.css.map": "/census-dep/static/css/main.79df7f62.css.map",
+    "main.babb1752.js.map": "/census-dep/static/js/main.babb1752.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79df7f62.css",
+    "static/js/main.babb1752.js"
+  ]
+}
